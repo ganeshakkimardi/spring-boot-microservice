@@ -1,4 +1,4 @@
-HELP.md
+product-service/HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -48,3 +48,12 @@ application-local.yml
 # =========================
 .DS_Store
 Thumbs.db
+
+# =========================
+# Docker / Database data
+# =========================
+**/mysql/
+**/mysql/**
+**/data/
+**/data/**
+
