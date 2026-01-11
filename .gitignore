@@ -57,3 +57,12 @@ Thumbs.db
 **/data/
 **/data/**
 
+# ===============================
+# MongoDB / WiredTiger (runtime)
+# ===============================
+data/
+*.wt
+WiredTiger*
+collection-*
+index-*
+metrics.interim
