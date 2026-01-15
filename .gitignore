@@ -66,3 +66,14 @@ WiredTiger*
 collection-*
 index-*
 metrics.interim
+
+!.mvn/wrapper/maven-wrapper.jar
+
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+
+!/mysql/
+/volume-data/
+/docker/tempo/tempo-data/
