@@ -37,3 +37,5 @@ The technologies used in this project are:
 - Grafana
 - Loki
 - Tempo
+
+<img width="1328" height="672" alt="architecture-design" src="https://github.com/user-attachments/assets/57ef9104-6d83-4134-8c19-09e754db1476" />
